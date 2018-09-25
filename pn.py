@@ -1,7 +1,7 @@
 a = int(input("Enter a number: "))
-if (a>0):
+if (b>0):
   print("\nPositive")
-elif (a<0):
+elif (b<0):
   print("\nNegative")
 else:
   print("\nZero")
